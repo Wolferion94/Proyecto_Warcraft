@@ -1,4 +1,4 @@
-# Modelo de clasificación jugadores World of Warcraft - Campos de Batalla
+# Modelo de clasificación jugadores World of Warcraft - Campos de Batalla :tw-270a: :tw-270a:
 
 ## Contexto
 
