@@ -1,5 +1,4 @@
-# Modelo de clasificación jugadores World of Warcraft - Campos de Batalla :tw-270a: :tw-270a:
-
+# Modelo de clasificación jugadores World of Warcraft - Campos de Batalla
 ## Contexto
 
 [![Grito de Guerra](https://static.wikia.nocookie.net/es_wowpedia/images/7/73/Warsong_Gulch_loading_screen.jpg/revision/latest?cb=20120826205908 "Grito de Guerra")](http://https://static.wikia.nocookie.net/es_wowpedia/images/7/73/Warsong_Gulch_loading_screen.jpg/revision/latest?cb=20120826205908 "Grito de Guerra")
